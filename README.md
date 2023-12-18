@@ -39,7 +39,7 @@ I am a solidity developer with 5 years of experience in solidity & Defi engineer
   <a href="mailto:rsimon9600@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="gmail logo"  />
   </a>
-  <a href="discordto:ricksimon0000" target="_blank">
+  <a href="discordto:ricksimuser" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="35" alt="discord logo"  />
   </a>
   <a href="https://t.me/rsimon9600" target="_blank">
