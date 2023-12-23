@@ -1,7 +1,7 @@
 [![Visitors](https://api.visitorbadge.io/api/daily?path=Akagi201%2FAkagi201&label=Visitors%20Today&countColor=%2337d67a)](https://visitorbadge.io/status?path=Akagi201%2FAkagi201)
 
 <h1 align="center">👋, Rick Simon</h1>
-<h3 align="center">Solidity Developer& Defi Engineer</h3>
+<h3 align="center">Web3 Full Stack & Solidity Engineer</h3>
 I am a solidity developer with 5 years of experience in solidity & Defi engineering. Passionate about blockchain technology and its potential to revolutionize the financial industry. 
 
 <p align="left">
